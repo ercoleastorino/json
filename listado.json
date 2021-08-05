@@ -1,36 +1,36 @@
 [
     {
-        "producto": "arroz",
+        "producto": "Arroz",
         "precio": 35,
         "stock": 85
     },
     {
-        "producto": "azucar",
+        "producto": "Azucar",
         "precio": 40,
         "stock": 50
     },
     {
-        "producto": "aceite",
+        "producto": "Aceite",
         "precio": 60,
         "stock": 35
     },
     {
-        "producto": "sal",
+        "producto": "Sal",
         "precio": 30,
         "stock": 70
     },
     {
-        "producto": "harina",
+        "producto": "Harina",
         "precio": 35,
         "stock": 30
     },
     {
-        "producto": "alfajor",
+        "producto": "Alfajor",
         "precio": 20,
         "stock": 100
     },
     {
-        "producto": "caramelo",
+        "producto": "Caramelo",
         "precio": 2,
         "stock": 150
     }
